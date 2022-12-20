@@ -1,0 +1,43 @@
+[{
+  "id": 1,
+  "first_name": "John",
+  "last_name": "Lindt",
+  "email": "jlindt@gmail.com",
+  "gender": "Male",
+  "ip_address": "1.2.3.4"
+}, {
+  "id": 2,
+  "first_name": "Peter",
+  "last_name": "Friz",
+  "email": "Friz3@gmail.com",
+  "gender": "Male",
+  "ip_address": "4.5.6.7"
+}, {
+  "id": 3,
+  "first_name": "Dell",
+  "last_name": "Chang",
+  "email": "Dellc@gmail.com",
+  "gender": "Female",
+  "ip_address": "8.9.10.11"
+}, {
+  "id": 4,
+  "first_name": "Lolita",
+  "last_name": "John",
+  "email": "LolitaJ@gmail.com",
+  "gender": "Female",
+  "ip_address": "12.13.14.15"
+}, {
+  "id": 5,
+  "first_name": "Pele",
+  "last_name": "Wang",
+  "email": "Pele@gmail.com",
+  "gender": "Male",
+  "ip_address": "16.17.18.19"
+}, {
+  "id": 6,
+  "first_name": "Rene",
+  "last_name": "Charm",
+  "email": "Rene3@gmail.com",
+  "gender": "Male",
+  "ip_address": "20.21.22.23"
+}]
